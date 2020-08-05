@@ -1,4 +1,12 @@
 <application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
   <component name="VimSettings">
     <state version="7" enabled="true" />
     <notifications>

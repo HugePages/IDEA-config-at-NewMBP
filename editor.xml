@@ -1,6 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
@@ -20,10 +20,14 @@
         <entry key="HTML" value="true" />
         <entry key="JAVA" value="true" />
         <entry key="JSON" value="true" />
+        <entry key="JSP" value="true" />
+        <entry key="JSPX" value="true" />
         <entry key="JavaScript" value="true" />
         <entry key="Rust" value="true" />
+        <entry key="SQL" value="true" />
         <entry key="Scala" value="true" />
         <entry key="TypeScript" value="true" />
+        <entry key="VTL" value="true" />
         <entry key="XHTML" value="true" />
         <entry key="XML" value="true" />
         <entry key="kotlin" value="true" />
@@ -33,6 +37,7 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>

@@ -3,7 +3,6 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
-    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -18,8 +17,8 @@
     <option name="rightTreeIndent" value="6" />
     <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="12" />
-    <option name="accentColor" value="2aa298" />
-    <option name="selectedTheme" value="LIGHT_OWL" />
+    <option name="accentColor" value="74a0f1" />
+    <option name="selectedTheme" value="MOONLIGHT" />
     <option name="userId" value="-1bf5c1a4:173bd311d1a:-8000" />
     <option name="version" value="6.7.2" />
     <option name="showWhatsNew" value="false" />

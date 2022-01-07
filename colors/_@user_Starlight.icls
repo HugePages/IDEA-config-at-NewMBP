@@ -1,11 +1,16 @@
 <scheme name="_@user_Starlight" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-12-01T11:11:10</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2022-01-07T13:52:39</property>
+    <property name="modified">2022-01-07T14:49:57</property>
     <property name="originalScheme">Starlight</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="MonoLisa" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CARET_ROW_COLOR" value="214283" />
     <option name="CONSOLE_BACKGROUND_KEY" value="1f34" />
@@ -88,6 +93,9 @@
         <option name="FOREGROUND" value="ff7ca2" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="JSON.COMMA">
       <value>
         <option name="FOREGROUND" value="ccd300" />
@@ -103,9 +111,18 @@
         <option name="FOREGROUND" value="7b388" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="7674b" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>

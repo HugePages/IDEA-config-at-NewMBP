@@ -4,7 +4,7 @@
     <property name="created">2021-12-02T15:10:04</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2021.1.2.0.0</property>
-    <property name="modified">2022-01-07T11:35:00</property>
+    <property name="modified">2022-01-14T10:44:26</property>
     <property name="originalScheme">GitHub (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -305,7 +305,6 @@
         <option name="FOREGROUND" value="6f42c1" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.THIS">
       <value>
         <option name="FOREGROUND" value="5cc4" />
@@ -1140,22 +1139,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="fffff2" />
+        <option name="BACKGROUND" value="ffffe8" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="f6fff6" />
+        <option name="BACKGROUND" value="f0fff0" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="fff6ff" />
+        <option name="BACKGROUND" value="fff0ff" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="f3fefe" />
+        <option name="BACKGROUND" value="eafdfd" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -1215,7 +1214,6 @@
         <option name="BACKGROUND" value="d1d5da" />
       </value>
     </option>
-    <option name="Interpolated String Injection" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JAVA.IMPORT_PACKAGE">
       <value>
         <option name="FOREGROUND" value="d73a49" />
@@ -3047,7 +3045,6 @@
         <option name="BACKGROUND" value="e4e4e4" />
       </value>
     </option>
-    <option name="RH_RETURN_KEYWORD" baseAttributes="Return Highlighter defaults" />
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
         <option name="FOREGROUND" value="d73a49" />

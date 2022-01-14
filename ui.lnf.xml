@@ -3,11 +3,11 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="EDITOR_TAB_LIMIT" value="4" />
-    <option name="EDITOR_TAB_PLACEMENT" value="0" />
+    <option name="EDITOR_TAB_LIMIT" value="8" />
     <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="19" />
     <option name="MAX_LOOKUP_WIDTH2" value="1078" />
+    <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="12" />
     <option name="showTreeIndentGuides" value="true" />

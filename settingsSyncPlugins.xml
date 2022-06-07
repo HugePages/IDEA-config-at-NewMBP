@@ -271,7 +271,6 @@
                   <option value="com.intellij.modules.nativeDebug-plugin-capable" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
